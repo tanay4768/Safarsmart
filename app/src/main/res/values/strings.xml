@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Safar_smart_sos</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+    <string name="sos">Activate "\n" SOS</string>
+    <string name="voice">Voice Recognizer</string>
+    <string name="channel_name">Sos service</string>
+    <string name="channel_description">Help call</string>
+</resources>
